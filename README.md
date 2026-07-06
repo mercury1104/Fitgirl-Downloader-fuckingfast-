@@ -44,5 +44,5 @@ Herramienta educativa. No nos responsabilizamos del mal uso que se le pueda dar.
 
 ## 👥 Créditos
 
-- **[Aecito](https://github.com/Aecito)** — Adaptación HTMX, GUI web, debug
+- **[Aecito](https://github.com/Mercury1104)** — Adaptación HTMX, GUI web, debug
 - **[JoyNath1337](https://github.com/JoyNath1337)** — Proyecto original FitGirl-Easy-Downloader
